@@ -1,0 +1,4 @@
+git add *
+git commit
+git remote add origin https://github.com/woshiamiaojiang/gate.git
+git push -u origin master
